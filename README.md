@@ -1,6 +1,6 @@
 # ZV Studio — 侧载源
 
-本仓库只托管 [ZV Studio](https://github.com/ifeelok/zve10-studio) 的未签名 IPA 和应用源，**不含任何源码**。源码在私有仓库。
+本仓库只托管 [ZV Studio](https://github.com/ifeelok/zve10-studio) 的未签名 IPA 和应用源。
 
 ## 添加应用源（加一次，以后自动更新）
 
