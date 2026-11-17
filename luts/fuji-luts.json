@@ -4,15 +4,15 @@
   "source": "https://www.fujifilm-x.com/global/support/download/lut/",
   "note": "由 FUJIFILM 官方 F-Log2 3D LUT 经色彩空间转换生成，输入为普通 sRGB / Rec.709 JPEG。详见 DEVELOPMENT.md Q30。",
   "luts": [
-    { "name": "PROVIA · 原版",       "url": "FUJI-PROVIA-sRGB.cube" },
-    { "name": "Velvia · 原版",       "url": "FUJI-Velvia-sRGB.cube" },
-    { "name": "ASTIA · 原版",        "url": "FUJI-ASTIA-sRGB.cube" },
-    { "name": "经典正片 · 原版",      "url": "FUJI-CLASSIC-CHROME-sRGB.cube" },
-    { "name": "Reala Ace · 原版",    "url": "FUJI-REALA-ACE-sRGB.cube" },
-    { "name": "PRO Neg.S · 原版",    "url": "FUJI-PRO-NegStd-sRGB.cube" },
-    { "name": "经典负片 · 原版",      "url": "FUJI-CLASSIC-Neg-sRGB.cube" },
-    { "name": "ETERNA · 原版",       "url": "FUJI-ETERNA-sRGB.cube" },
-    { "name": "ETERNA 漂白 · 原版",  "url": "FUJI-ETERNA-BB-sRGB.cube" },
-    { "name": "ACROS · 原版",        "url": "FUJI-ACROS-sRGB.cube" }
+    { "name": "PROVIA",       "url": "FUJI-PROVIA-sRGB.cube" },
+    { "name": "Velvia",       "url": "FUJI-Velvia-sRGB.cube" },
+    { "name": "ASTIA",        "url": "FUJI-ASTIA-sRGB.cube" },
+    { "name": "经典正片",      "url": "FUJI-CLASSIC-CHROME-sRGB.cube" },
+    { "name": "Reala Ace",    "url": "FUJI-REALA-ACE-sRGB.cube" },
+    { "name": "PRO Neg.S",    "url": "FUJI-PRO-NegStd-sRGB.cube" },
+    { "name": "经典负片",      "url": "FUJI-CLASSIC-Neg-sRGB.cube" },
+    { "name": "ETERNA",       "url": "FUJI-ETERNA-sRGB.cube" },
+    { "name": "ETERNA 漂白",  "url": "FUJI-ETERNA-BB-sRGB.cube" },
+    { "name": "ACROS",        "url": "FUJI-ACROS-sRGB.cube" }
   ]
 }
