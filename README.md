@@ -7,7 +7,7 @@
 SideStore 和 LiveContainer 都兼容 AltStore 格式的源，用同一个地址即可：
 
 ```
-https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/main/apps.json
+https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/refs/heads/main/apps.json
 ```
 
 ### SideStore
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/main/apps.json
 SideStore 也支持一键链接（点开自动跳 SideStore 添加源）：
 
 ```
-sidestore://source?url=https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/main/apps.json
+sidestore://source?url=https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/refs/heads/main/apps.json
 ```
 
 ### LiveContainer
