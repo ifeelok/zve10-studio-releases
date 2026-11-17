@@ -15,22 +15,22 @@
       "bundleIdentifier": "com.ifeelok.zvstudio",
       "developerName": "ifeelok",
       "subtitle": "让照片更快到手 · ZV-E10 影像伴侣",
-      "localizedDescription": "ZV Studio 是索尼 ZV-E10 的 iOS 影像伴侣，替代难用的官方 App。\n\n功能：\n• Wi-Fi 直连相机（192.168.122.1），浏览照片时间轴\n• 勾选批量导入，分块下载，实时进度\n• 我的图库与滤镜编辑器\n• 遥控拍摄（取景失败仍可用快门）\n\n支持 iOS 26/27，为 LiveContainer 侧载设计。\n注意：未签名 IPA，请通过 LiveContainer 或 SideStore 安装。",
+      "localizedDescription": "ZV Studio 是索尼 ZV-E10 的 iOS 影像伴侣，替代难用的官方 App。\n\n功能：\n• Wi-Fi 直连相机（192.168.122.1），浏览照片时间轴\n• 勾选批量导入，分块下载，实时进度\n• 我的图库与滤镜编辑器：胶片预设 + 富士胶片模拟，一键开关、强度、长按看原图\n• 按需导入 3D LUT（.cube）：分享菜单 / 直链 / JSON 清单，可自定义分组，不随 App 分发\n• 遥控拍摄（取景失败仍可用快门）\n\n支持 iOS 26/27，为 LiveContainer 侧载设计。\n注意：未签名 IPA，请通过 LiveContainer 或 SideStore 安装。",
       "iconURL": "https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/refs/heads/main/icon.png",
       "tintColor": "#FF9F0A",
       "screenshotURLs": [],
-      "version": "0.0.6",
+      "version": "0.0.7",
       "versionDate": "2026-11-17",
-      "versionDescription": "0.0.6 预发布版",
+      "versionDescription": "0.0.7 预发布版",
       "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/latest/download/ZVStudio-unsigned.ipa",
-      "size": 1505910,
+      "size": 1655240,
       "versions": [
         {
-          "version": "0.0.6",
+          "version": "0.0.7",
           "date": "2026-11-17",
-          "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/download/v0.0.6/ZVStudio-unsigned.ipa",
-          "size": 1505910,
-          "localizedDescription": "0.0.6 预发布版"
+          "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/download/v0.0.7/ZVStudio-unsigned.ipa",
+          "size": 1655240,
+          "localizedDescription": "0.0.7 预发布版"
         }
       ]
     }
