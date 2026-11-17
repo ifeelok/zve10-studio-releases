@@ -41,6 +41,19 @@ https://github.com/ifeelok/zve10-studio-releases/releases/latest/download/ZVStud
 
 历史版本见 [Releases](https://github.com/ifeelok/zve10-studio-releases/releases)。
 
+## 滤镜 LUT 链接（App 内按需下载）
+
+`luts/` 目录放的是富士官方 F-Log2 胶片模拟 LUT 经色彩空间转换后的 sRGB 版本（面向普通 JPEG）。在 App 里点「从链接导入 LUT 包」，填下面任一地址即可一次导入 10 款：
+
+```
+https://cdn.jsdelivr.net/gh/ifeelok/zve10-studio-releases@main/luts/fuji-luts.json
+https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/refs/heads/main/luts/fuji-luts.json
+```
+
+导入后出现在滤镜编辑器的「富士原版」分组，可在设置页删除、可换成任意自己的清单或单个 `.cube` 直链。这些文件不随 IPA 分发，只在你点导入时下载到手机本机。
+
+> 富士官网对下载内容的说明是导入视频编辑软件使用，未授予随第三方 App 再分发的许可；此处为衍生文件，使用前请自行确认富士官方条款。
+
 ## 说明
 
 IPA 未签名，由 SideStore/LiveContainer 在安装时签名。App 需相机开启「智能手机观看」并连入其 Wi-Fi 热点（`192.168.122.1`）。
