@@ -19,18 +19,18 @@
       "iconURL": "https://raw.githubusercontent.com/ifeelok/zve10-studio-releases/refs/heads/main/icon.png",
       "tintColor": "#FF9F0A",
       "screenshotURLs": [],
-      "version": "0.1.9",
+      "version": "0.1.10",
       "versionDate": "2026-11-19",
-      "versionDescription": "0.1.9 预发布版",
+      "versionDescription": "0.1.10 预发布版",
       "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/latest/download/ZVStudio-unsigned.ipa",
-      "size": 1951713,
+      "size": 1966192,
       "versions": [
         {
-          "version": "0.1.9",
+          "version": "0.1.10",
           "date": "2026-11-19",
-          "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/download/v0.1.9/ZVStudio-unsigned.ipa",
-          "size": 1951713,
-          "localizedDescription": "0.1.9 预发布版"
+          "downloadURL": "https://github.com/ifeelok/zve10-studio-releases/releases/download/v0.1.10/ZVStudio-unsigned.ipa",
+          "size": 1966192,
+          "localizedDescription": "0.1.10 预发布版"
         }
       ]
     }
